@@ -1,0 +1,29 @@
+{
+  "plz": "63512",
+  "umkreis_km": 5,
+  "maerkte": [
+    "Lidl",
+    "REWE",
+    "ALDI SÜD"
+  ],
+  "watchlist": [
+    {
+      "suche": "Hackfleisch",
+      "max_preis": null
+    },
+    {
+      "suche": "Butter",
+      "max_preis": 1.5
+    }
+  ],
+  "zusatz_suchbegriffe": [
+    "Milch",
+    "Eier",
+    "Nudeln",
+    "Kaffee",
+    "Hähnchen",
+    "Käse",
+    "Joghurt",
+    "Schokolade"
+  ]
+}
